@@ -1,0 +1,2 @@
+python-digitalocean==1.10.1
+requests==2.11.1
